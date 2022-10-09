@@ -1,14 +1,10 @@
-# Hardhat Boilerplate
-
-## Why ?
-
-Thought to have a fast way of bootstraping projects with best practice's in mind. Having linters, prettiers, standards on how to commit, and changelog creation & maintenance.
+# W3mail-Contract
 
 ---
 
 ## How ?
 
-This is achieved using several hardhat plugins, and external known packages.
+based on Hardhat Boilerplate, achieved using several hardhat plugins, and external known packages.
 
 ---
 
@@ -30,7 +26,7 @@ You can generate your API KEY in the [Alchemy site](https://www.alchemy.com).
 
 ## Tools
 
-This boilerplate includes:
+Tools includes:
 
 - [Hardhat](https://hardhat.org/)
 - [Solhint](https://github.com/protofire/solhint)
